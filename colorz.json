@@ -1,0 +1,128 @@
+{
+    "reds": [
+        {
+            "name": "red",
+            "desc": "",
+            "color": "red",
+            "hex": "#FF0000",
+            "rgb": "255,0,0",
+            "hsv": ""
+	    }
+    ],
+    "greens": [
+        {
+            "name": "green",
+            "desc": "",
+            "color": "green",
+            "hex": "#008000",
+            "rgb": "0,128,0",
+            "hsv": ""
+	    },
+        {
+            "name": "lime",
+            "desc": "",
+            "color": "lime",
+            "hex": "#00FF00",
+            "rgb": "0,255,0",
+            "hsv": ""
+	    }
+    ],
+	"blues": [
+        {
+            "name": "blue",
+            "desc": "",
+            "color": "blue",
+            "hex": "#0000FF",
+            "rgb": "0,0,255",
+            "hsv": ""
+	    },
+        {
+            "name": "cyan",
+            "desc": "",
+            "color": "cyan",
+            "hex": "#00FFF",
+            "rgb": "0,255,255",
+            "hsv": ""
+	    }
+    ],
+    "yellows": [
+        {
+            "name": "yellow",
+            "desc": "",
+            "color": "yellow",
+            "hex": "#FFFF00",
+            "rgb": "255,255,0",
+            "hsv": ""
+	    }
+    ],
+    "oranges": [
+        {
+            "name": "orange",
+            "desc": "",
+            "color": "orange",
+            "hex": "#FFA500",
+            "rgb": "255,165,0",
+            "hsv": ""
+	    }
+    ],
+    "pinks": [
+        {
+            "name": "pink",
+            "desc": "",
+            "color": "pink",
+            "hex": "#FFC0CB",
+            "rgb": "255,192,203",
+            "hsv": ""
+	    }
+    ],
+    "purples": [
+        {
+            "name": "purple",
+            "desc": "",
+            "color": "purple",
+            "hex": "#800080",
+            "rgb": "128,0,128",
+            "hsv": ""
+	    }
+    ],
+    "browns": [
+        {
+            "name": "brown",
+            "desc": "",
+            "color": "brown",
+            "hex": "#A52A2A",
+            "rgb": "165,42,42",
+            "hsv": ""
+	    }
+    ],
+    "grays": [
+        {
+            "name": "gray",
+            "desc": "",
+            "color": "gray",
+            "hex": "#808080",
+            "rgb": "128,128,128",
+            "hsv": ""
+	    }
+    ],
+    "black": [
+        {
+            "name": "black",
+            "desc": "",
+            "color": "black",
+            "hex": "#000",
+            "rgb": "0,0,0",
+            "hsv": ""
+	    }
+    ],
+    "white": [
+        {
+            "name": "white",
+            "desc": "",
+            "color": "white",
+            "hex": "#fff",
+            "rgb": "255,255,255",
+            "hsv": ""
+	    }
+    ]
+}
